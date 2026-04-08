@@ -1,0 +1,5 @@
+npm create vite@latest topplayers-front -- --template react
+cd topplayers-front
+npm install
+npm install axios react-router-dom
+npm run dev
